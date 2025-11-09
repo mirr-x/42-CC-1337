@@ -6,7 +6,7 @@ Detailed documentation of my 42 Common Core projects and exams, during Common Co
 
 ## PROJECTS
 
-<div align="center" flag="g3t_7h3_fLag_1337_d0_1t">
+<div align="center" hmm="th3_gr3at_wariro" flag="g3t_7h3_fLag_1337_d0_1t">
 
 | Project                                                    | Language                                                                        | Grade                                                             |  Evaluation Information |
 | :--------------------------------------------------------- | :------------------------------------------------------------------------------ | :---------------------------------------------------------------- |  :--------------------- |
