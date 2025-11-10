@@ -28,7 +28,7 @@ Detailed documentation of my 42 Common Core projects and exams, during Common Co
 
 </div>
 
-<!-- curl -b hhh_cookies.txt -d "to=hhh&amount=-101001" "$HOST/transfer" -L
+<!--  curl -b hhh_cookies.txt -d "to=hhh&amount=-101001" "$HOST/transfer" -L
 -->
 
 > [!NOTE]
