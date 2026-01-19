@@ -31,6 +31,6 @@ Detailed documentation of my 42 Common Core projects and exams, during Common Co
 <!--  curl -b hhh_cookies.txt -d "to=hhh&amount=-101001" "$HOST/transfer" -L
 -->
 
-> [!NOTE
+> [!NOTE]
 > In 42, the following projects are a personal choice:
 > <br> `so_long`, `fract-ol` or `fdf` > `minitalk` or `pipex` > `cub3d` or `minirt` > `webserv` or `ft_irc`
